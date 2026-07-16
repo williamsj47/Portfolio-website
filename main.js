@@ -1,3 +1,3 @@
-
+$("#nav").load("/menu.html");
 
 
